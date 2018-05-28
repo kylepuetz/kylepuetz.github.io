@@ -1,0 +1,23 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<b>[Fields of Mutual Alignment: A Dual-Order Approach to the Study of Cultural Holes](http://journals.sagepub.com/doi/abs/10.1177/0735275117725765)</b>
+
+2017.	Puetz, Kyle. “Fields of Mutual Alignment: A Dual-Order Approach to the Study of Cultural Holes.” <i>Sociological Theory</i> 35(3):228-260.
+
+<b>Abstract</b> In this article, I discuss how network-analytic exploitations of the duality of agents and social object enable the study of fields from two analytical vantage points. Such an approach entails: (1) the discovery of field positions through identification of cultural holes within a network of agents’ tastes and (2) the measurement of interobject competition to identify social objects contributing most to the organization of field positions. Characterizing this approach as a mutual-alignment framework, I discuss its analytical advantages. At the level of the agent, I suggest that positions within fields retrieve their value by virtue of their relational style, or their relationship to the field’s cultural holes. At the level of the social object, I provide an analytical framework for identifying structurally important social objects through relationships of asymmetrical competition and incommensurability, or a lack of substitutability. I provide an empirical application to a population of film critics.
+
+---
+
+<b>[Consumer Culture, Taste Preferences, and Social Network Formation](https://onlinelibrary-wiley-com/doi/abs/10.1111/soc4.12265)</b>
+
+2015. Puetz, Kyle. “Consumer Culture, Taste Preferences, and Social
+	Network Formation.” <i>Sociology Compass</i> 9(6): 438–449.
+
+<b>Abstract</b> One of the most important and consistent findings in the social networks literature is that individuals are socially connected to people who resemble themselves. This finding extends to preferences for consumer culture. Whereas network theorists previously had presumed that social networks generated this outcome through a process of social influence, this traditional conception of the relationship between culture and social networks has been challenged by new theoretical perspectives and novel methodological techniques that enable researchers to empirically test the causal direction of the relationship. In this article, I first discuss how theorists have adjudicated between competing explanations of the relationship of taste preferences and social network structure. Second, I discuss how sociologists have theorized that tastes contribute to variation in network structure. Third, I examine survey and ethnographic research that discusses interactional mechanisms by which people actively mobilize culture to form social relationships. Fourth and finally, I discuss research that explores how consumer culture constitutes the meaning of social relationships and how relationship category affects theorizing of network formation.
+
+---
+
+

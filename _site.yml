@@ -5,10 +5,8 @@ navbar:
   left:
   - text: "Publications"
     href: research.html
-  - text: "Dissertation"
-    href: dissertation.html
   - text: "CV"
-    href: files/Puetz Kyle CV 2018 Public.pdf
+    href: files/Puetz Kyle CV 2022.pdf
   right:
   - icon: fa-envelope fa-lg
     href: contact.html

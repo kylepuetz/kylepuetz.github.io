@@ -1,0 +1,17 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/IMG_7988.jpg" style="width:50%; border:10px solid; margin-right: 20px" align="left">
+
+
+I am a sociologist who studies culture, social networks, and morality. 
+
+I am a research fellow at the [Survey Lab](https://iasculture.org/research/survey-lab) at the [Institute for Advanced Studies in Culture](https://iasculture.org/) at the [University of Virginia](https://www.virginia.edu/).
+
+My research contributes to developing theoretical and operational understandings of meso-level social contexts from a relational perspective.
+
+Currently, I am performing analysis of the [National Survey of Moral Formation](https://iasculture.org/research/survey-lab/national-survey-moral-formation), a nationally representative survey dataset of more than 3,000 parent-teenager dyads. 
+
+My full CV is available [here](files/Puetz Kyle CV 2022.pdf).

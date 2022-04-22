@@ -1,0 +1,49 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+---
+
+<b>[Meaning Structures in the World Polity: A Semantic Network Analysis of Human Rights Terminology in the World’s Peace Agreements](https://doi.org/10.1016/j.poetic.2021.101598)</b>
+
+2021. Puetz, Kyle, Andrew P. Davis, and Alexander B. Kinney. “Meaning Structures in the World Polity: A Semantic Network Analysis of Human Rights Terminology in the World’s Peace Agreements.” <i>Poetics</i> 88: 101598.
+
+<b>Abstract</b> We examine changes in the use of human rights language in peace agreement texts from 1990 to 2018. Existing research in world polity theory examines institutional change through the lens of increasing isomorphism, a lens that generally fails to appreciate qualitative transformations in the meaning of institutional concepts across time. As a corrective to this approach, we endorse a meaning-structure institutionalism that conceives institutional concepts in relational terms and use a method of textual analysis — semantic network analysis — to analyze and formally model the shifting meaning of human rights in peace agreement texts. We show that human rights language in peace agreements has undergone multiple qualitative shifts since its initial emergence in the mid-1980s. Specifically, the term human rights occupies a marginal position in peace agreement texts in the 1990s, is used in reference to and thus bridges multiple substantive themes in the 2000s, and, finally, inhabits a conceptual silo in the 2010s in the sense that it is associated with many concepts within but no concepts outside of a semantic community related to rights and democracy. We discuss implications for world polity theories of institutionalism that follow from our relational framework.
+
+---
+
+<b>[Taste Boundaries and Friendship Preferences: Insights from the Formalist Approach](https://doi.org/10.1016/j.poetic.2021.101551)</b>
+
+2021. Puetz, Kyle. “Taste Boundaries and Friendship Preferences: Insights from the Formalist Approach.” <i>Poetics</i> 86: 101551.
+
+<b>Abstract</b> What is the association between cultural tastes and the qualities we prefer in our friends? Previous research has studied cultural tastes and friendship preferences in conjunction but either relates both to people's occupancy of social-structural positions or limits attention to the association between high-culture preferences and preferences for cultured friends. Adopting an alternative approach, I reconceive tastes as “contentful forms” whose numerical or relational properties lend them inherent meanings. Performing OLS regression on 1993 General Social Survey data, I show that friendship preferences vary in relation to two such properties of tastes: (1) the popularity of respondents’ preferred musical genres and (2) conventionality, which concerns the frequency that respondents’ preferred musical genres are selected in tandem by others. I find that favoring highly disliked genres and atypical combinations of genres are each associated with making boundaries on aesthetic grounds. These results suggest that, affording us a sense of position vis-à-vis others, relational properties such as popularity and conventionality operate as platforms from which we render judgments regarding what kinds of people make appropriate candidates for friendship.
+
+---
+
+<b>[Pipes or Prisms? Personal Networks, Information Retrieval, and Formal Support Receipt in the Wake of the Deepwater Horizon Oil Spill](https://www.tandfonline.com/doi/full/10.1080/00380253.2020.1786478)</b>
+
+2021. Puetz, Kyle, and Brian Mayer. “Pipes or Prisms? Personal Networks, Information Retrieval, and Formal Support Receipt in the Wake of the Deepwater Horizon Oil Spill.” <i>The Sociological Quarterly</i> 62(3): 548-569.
+
+<b>Abstract</b> Social networks are commonly discussed in reference to processes of disaster recovery but rarely explicitly measured. We employ a mixed-methods approach drawing upon the personal-network data of 265 oyster workers in the wake of the Deepwater Horizon oil spill and qualitative accounts of individual experiences during the recovery process. We find evidence of two potential mechanisms linking network structure with the receipt of formal support: a networks-as-pipes approach linking networks and access to relevant information in the wake of a disaster and a networks-as-prisms approach where networks signal their social identities, shaping post-disaster actions and behaviors.
+
+---
+
+<b>[Fields of Mutual Alignment: A Dual-Order Approach to the Study of Cultural Holes](https://journals.sagepub.com/doi/10.1177/0735275117725765)</b>
+
+2017.	Puetz, Kyle. “Fields of Mutual Alignment: A Dual-Order Approach to the Study of Cultural Holes.” <i>Sociological Theory</i> 35(3):228-260.
+
+<b>Abstract</b> In this article, I discuss how network-analytic exploitations of the duality of agents and social object enable the study of fields from two analytical vantage points. Such an approach entails: (1) the discovery of field positions through identification of cultural holes within a network of agents’ tastes and (2) the measurement of interobject competition to identify social objects contributing most to the organization of field positions. Characterizing this approach as a mutual-alignment framework, I discuss its analytical advantages. At the level of the agent, I suggest that positions within fields retrieve their value by virtue of their relational style, or their relationship to the field’s cultural holes. At the level of the social object, I provide an analytical framework for identifying structurally important social objects through relationships of asymmetrical competition and incommensurability, or a lack of substitutability. I provide an empirical application to a population of film critics.
+
+---
+
+<b>[Consumer Culture, Taste Preferences, and Social Network Formation](https://onlinelibrary-wiley-com.ezproxy4.library.arizona.edu/doi/abs/10.1111/soc4.12265)</b>
+
+2015. Puetz, Kyle. “Consumer Culture, Taste Preferences, and Social
+	Network Formation.” <i>Sociology Compass</i> 9(6): 438–449.
+
+<b>Abstract</b> One of the most important and consistent findings in the social networks literature is that individuals are socially connected to people who resemble themselves. This finding extends to preferences for consumer culture. Whereas network theorists previously had presumed that social networks generated this outcome through a process of social influence, this traditional conception of the relationship between culture and social networks has been challenged by new theoretical perspectives and novel methodological techniques that enable researchers to empirically test the causal direction of the relationship. In this article, I first discuss how theorists have adjudicated between competing explanations of the relationship of taste preferences and social network structure. Second, I discuss how sociologists have theorized that tastes contribute to variation in network structure. Third, I examine survey and ethnographic research that discusses interactional mechanisms by which people actively mobilize culture to form social relationships. Fourth and finally, I discuss research that explores how consumer culture constitutes the meaning of social relationships and how relationship category affects theorizing of network formation.
+
+---
+
+
